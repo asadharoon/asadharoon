@@ -45,12 +45,12 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 
 **Projects:**
 
--<code><a href="https://github.com/asadharoon/News_classification_ExpressNews_Scrapper_Python">Express News Classification(Text Classification Task) With Scrapper</a></code>
+- <code><a href="https://github.com/asadharoon/News_classification_ExpressNews_Scrapper_Python">Express News Classification(Text Classification Task) With Scrapper</a></code>
 
--<code><a href="https://github.com/asadharoon/adult_census_income_predictionTask_ML">Adult Census Income Prediction using Machine Learning</a></code>
+- <code><a href="https://github.com/asadharoon/adult_census_income_predictionTask_ML">Adult Census Income Prediction using Machine Learning</a></code>
 
--<code><a href="https://github.com/asadharoon/python-ai-flask-chatbot-javafx">Python Chatbot Using NLTK,Neo4j,AIML,Flask API,JavaFX</a></code>
+- <code><a href="https://github.com/asadharoon/python-ai-flask-chatbot-javafx">Python Chatbot Using NLTK,Neo4j,AIML,Flask API,JavaFX</a></code>
 
--<code><a href="">Food Deliever Application using EJS,NodeJS,MongoDB</a></code>
+- <code><a href="">Food Deliever Application using EJS,NodeJS,MongoDB</a></code>
 
--<code><a href="">Fake-Youtube Project using Youtube API</a></code>
+- <code><a href="">Fake-Youtube Project using Youtube API</a></code>
