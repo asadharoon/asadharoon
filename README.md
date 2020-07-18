@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋🏼,
 
-Here are some ideas to get you started:
+A Developer having interest in Building Mobile Application(React Native,Flutter),Backend Web Developer,Image Processing
 
 - 🔭 I’m currently CS Student of 8th Semester at COMSATS University Lahore.
 - 🌱 I’m currently learning React JS, Material UI, React Native Expo, Python for Data Science and Machine Learning, Image Processing/Computer Vision.
