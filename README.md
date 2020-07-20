@@ -56,3 +56,4 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 - <code><a href="">Fake-Youtube Project using Youtube API</a></code>
 
 - <code><a href="">Excise and Taxation Department Application in JavaFX using SQL</a></code>
+- <code><a href="https://cui-agg-calc-next-js.vercel.app/">COMSATS Aggregate Calculator</a></code>
