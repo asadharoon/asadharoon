@@ -9,9 +9,6 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://reactnative.dev/img/header_logo.svg"></code>
-<code><img height="30" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png"></code>
-<code><img height="30" src="https://img2.pngio.com/express-js-png-5-png-image-expressjs-png-800_800.png"></code>
-<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></code>
 
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
@@ -42,6 +39,11 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/397/0*cbr_9kvPaWDbocSm.jpeg"></code>
 <code><img height="30" src="https://www.nicepng.com/png/detail/85-851058_anaconda-icon-anaconda-python-icon.png"></code>
+
+<code><img height="30" src="https://img2.pngio.com/express-js-png-5-png-image-expressjs-png-800_800.png"></code>
+<code><img height="30" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4"></code>
+<code><img height="30" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
 
 **Projects:**
 
