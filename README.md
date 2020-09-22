@@ -1,9 +1,12 @@
-### Hi 👋🏼,
+### Hi there, I'm Asad Haroon - 👋,
+
+[![Website](https://img.shields.io/website?label=https://asadharoon.netlify.app/blog&style=for-the-badge&url=https://asadharoon.netlify.app/blog/)](https://asadharoon.netlify.app/blog/)
 
 A Developer having interest in Building Mobile Application(React Native,Flutter),Backend Web Developer,Image Processing
 
 - 🔭 I’m currently CS Student of 8th Semester at COMSATS University Lahore.
 - 🌱 I’m currently learning React JS, Material UI, React Native Expo, Python for Data Science and Machine Learning, Image Processing/Computer Vision.
+
 
 **Languages:**
 
@@ -60,3 +63,12 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 
 - <code><a href="">Excise and Taxation Department Application in JavaFX using SQL</a></code>
 - <code><a href="https://cui-agg-calc-next-js.vercel.app/">COMSATS Aggregate Calculator</a></code>
+<br/>
+<br/>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+
+<img align="left" alt="Asad Haroon Github Stats" src="https://github-readme-stats.rehanshakir.vercel.app/api?username=asadharoon&show_icons=true&hide_border=true" />
+
+</details>
