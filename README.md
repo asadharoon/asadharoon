@@ -5,7 +5,8 @@
 A Developer having interest in Building Mobile Application(React Native,Flutter),Backend Web Developer,Image Processing
 
 - 🔭 I’m currently CS Student of 8th Semester at COMSATS University Lahore.
-- 🌱 I’m currently learning React JS, Material UI, React Native Expo, Python for Data Science and Machine Learning, Image Processing/Computer Vision.
+- 🌱 I’m currently learning Material UI, React Native Expo,RN Navigation, IOT.
+- 🥅 <b>2021 Goals:</b> Learn Google Cloud and Google Flutter.
 
 
 **Languages:**
