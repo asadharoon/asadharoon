@@ -64,7 +64,7 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 
 - <code><a href="">Excise and Taxation Department Application in JavaFX using SQL</a></code>
 - <code><a href="https://cui-agg-calc-next-js.vercel.app/">COMSATS Aggregate Calculator</a></code>
-- <code><a href="https://react-expense-tracker-redux.vercel.app/">Expense Tracker App Using ReactJS,Redux</a></code>
+- <code><a href="https://react-expense-tracker-redux.vercel.app/">Expense Tracker App Using ReactJS,Redux (PWA)</a></code>
 <br/>
 <br/>
 
