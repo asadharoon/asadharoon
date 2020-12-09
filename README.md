@@ -16,7 +16,6 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 <code><img height="30" src="https://reactnative.dev/img/header_logo.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/graphql.svg"></code>
-
 <code><img height="30" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></code>
 <code><img height="30" src="https://i7.pngguru.com/preview/170/924/985/microsoft-sql-server-microsoft-azure-sql-database-microsoft.jpg"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/bb/72/c8/bb72c84af959c4689e0bae3bfed496f5.png"></code>
@@ -29,7 +28,6 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 <code><img height="30" src="https://material-ui.com/static/logo.png"></code>
 <code><img height="30" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"></code>
 <code><img height="30" src="https://www.pngitem.com/pimgs/m/385-3850359_icon-mongodb-logo-hd-png-download.png"></code>
-
 <code><img height="30" src="https://keras.io/img/logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"></code>
@@ -40,7 +38,6 @@ A Developer having interest in Building Mobile Application(React Native,Flutter)
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/NumPy_logo.svg/1280px-NumPy_logo.svg.png"></code>
 <code><img height="30" src="https://e7.pngegg.com/pngimages/665/534/png-clipart-scipy-numpy-python-scikit-learn-pip-others-miscellaneous-blue.png"></code>
 <code><img height="30" src="https://banner2.cleanpng.com/20181109/pi/kisspng-logo-image-python-font-product-spread-networks-and-seaborn-team-up-to-provide-sea-5be5f5e0aa1a53.8473640515417973446968.jpg"></code>
-
 <code><img height="30" src="https://image.flaticon.com/icons/png/512/873/873107.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png"></code>
 <code><img height="30" src="https://miro.medium.com/max/397/0*cbr_9kvPaWDbocSm.jpeg"></code>
