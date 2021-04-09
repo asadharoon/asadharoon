@@ -2,12 +2,12 @@
 
 [![Website](https://img.shields.io/website?label=https://asadharoon.netlify.app/blog&style=for-the-badge&url=https://asadharoon.netlify.app/blog/)](https://asadharoon.netlify.app/blog/)
 
-A Developer having interest in Building Mobile Application(React Native,Flutter),Backend Web Developer,Image Processing
+A Developer having interest in Building Mobile Application(React Native,React JS),Backend Web Developer,Image Processing
 
 - 🔭 I am graduated from COMSATS University Islamabad, Lahore Campus.
-- 🌱 I’m currently learning Material UI, React Native Expo,Socket IO Programming, IOT.
-- 🥅 <b>2021 Goals:</b> Learn Google Cloud and Google Flutter.
--     Currently Working on AWS.
+- 🌱 I’m currently learning Material UI,Node JS,ReactJS,VueJS.
+- 🥅 <b>2021 Goals:</b> Learn Microservices and Docker.
+-     Currently Working on Microservices.
 
 
 **Languages:**
