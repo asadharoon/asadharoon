@@ -47,7 +47,11 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4"></code>
 <code><img height="30" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
+
+
 <code><img height="30" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"></code>
+<code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/mocha-1-1175012.png"></code>
+<code><img height="30" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4"></code>
 
 **Projects:**
 
