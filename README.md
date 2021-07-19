@@ -23,7 +23,7 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 
 
 **Tools/Frameworks/DB/Libraries:**
-
+<code><img height="30" src="https://v3.vuejs.org/logo.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1051px-Adobe_XD_CC_icon.svg.png"></code>
 <code><img height="30" src="https://material-ui.com/static/logo.png"></code>
 <code><img height="30" src="https://dist.neo4j.com/wp-content/uploads/neo4j_logo_globe1.png"></code>
@@ -45,7 +45,7 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 
 <code><img height="30" src="https://img2.pngio.com/express-js-png-5-png-image-expressjs-png-800_800.png"></code>
 <code><img height="30" src="https://avatars3.githubusercontent.com/u/12551863?s=400&v=4"></code>
-<code><img height="30" src="https://cdn2.iconfinder.com/data/icons/nodejs-1/512/nodejs-512.png"></code>
+<code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg"></code>
 
 
