@@ -7,7 +7,7 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 - 🔭 I am graduated from COMSATS University Islamabad, Lahore Campus.
 - 🌱 I’m currently learning Material UI,Node JS,ReactJS,VueJS.
 - 🥅 <b>2021 Goals:</b> Learn Microservices and Docker.
--     Currently Working on Microservices.
+-     Currently Working on VueJS.
 
 
 **Languages:**
