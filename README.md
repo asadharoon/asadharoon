@@ -10,6 +10,11 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 -     Currently Working on VueJS.
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asadharoon&label=Profile%20views&color=0e75b6&style=flat" alt="asadharoon" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asadharoon&theme=onedark&row=3&column=4&margin-w=12&margin-h=10" alt="asadharoon" /></a> </p>
+
+
 **Languages:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -54,6 +59,7 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/mocha-1-1175012.png"></code>
 <code><img height="30" src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4"></code>
 
+
 **Projects:**
 
 - <code><a href="https://github.com/asadharoon/News_classification_ExpressNews_Scrapper_Python">Express News Classification(Text Classification Task) With Scrapper</a></code>
@@ -72,10 +78,12 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 <br/>
 <br/>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+## Stats
 
-<img align="left" alt="Asad Haroon Github Stats" src="https://github-readme-stats.rehanshakir.vercel.app/api?username=asadharoon&show_icons=true&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asadharoon&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical&langs_count=10" alt="asadharoon" /></p>
 
-</details>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asadharoon&show_icons=true&locale=en&count_private=true&theme=radical" alt="asadharoon" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadharoon&theme=radical" alt="asadharoon" /></p>
+
 <img src="https://komarev.com/ghpvc/?username=asadharoon&label=Profile%20views&color=0e75b6&style=flat" alt="asad" />
