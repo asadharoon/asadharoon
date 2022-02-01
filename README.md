@@ -86,4 +86,3 @@ A Developer having interest in Building Mobile Application(React Native,React JS
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asadharoon&theme=radical" alt="asadharoon" /></p>
 
-<img src="https://komarev.com/ghpvc/?username=asadharoon&label=Profile%20views&color=0e75b6&style=flat" alt="asad" />
